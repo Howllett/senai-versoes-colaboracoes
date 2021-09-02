@@ -1,0 +1,21 @@
+01) o que é backup?
+R:é uma copia de segurança
+ para que os dados sejam restaurado
+
+02) o que é hardware?
+R:
+Hardware e a parte fisica do computador 
+
+03)qual é a diferença entre board e off board
+R:on board são as peças fixa na placa mãe dispositvo integrado
+e off board são peças alternativa do pc 
+para substitui a que foi queimada 
+
+04)qual é a função Hard disc?
+R:conhecido como disco rigido serve para 
+armazena documentos , arquivos e programas
+e um tipo de memória
+
+05)descreva sobre memoria ram
+R:significa memória de acesso aleatorio
+e responsavel por da agilidade e funcionalidade do sistema
