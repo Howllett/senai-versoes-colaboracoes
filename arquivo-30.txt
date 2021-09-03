@@ -1,0 +1,10 @@
+A) qual é a função do comando "Git ADD"?
+R:E usado para adicionar  qualquer alteração de  arquivo 
+
+
+B)Qual é a função git "commit -m"?
+R:são unidades estruturais de um projeto
+
+C)Qual é a função do comando "Git init" ?
+R:E um comando unico, que vc usa durante 
+a configuração inicial 
